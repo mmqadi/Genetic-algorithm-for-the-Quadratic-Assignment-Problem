@@ -1,0 +1,5 @@
+To run the programme change the value of the variable, "filename" in the file GeneticAlgorithm.py
+to the name of the instance you want to test the algorithm in.
+
+OUTPUT: the output files will be in the ./results folder. for any instant "inst" the output for each trial will be labeled "inst_{tail_no -1}.sol"
+where tail_no is the trial's number.
